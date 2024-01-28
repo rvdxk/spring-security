@@ -52,7 +52,7 @@ Greetings:
 
 - Authorization: Bearer Token required
 
-Important Notes
+## Important Notes
 Ensure that your IDE and Postman are set up and running.
 Feel free to explore and extend this project to suit your authentication and authorization needs. Happy coding!
 
